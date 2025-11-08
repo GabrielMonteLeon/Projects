@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\",
+  "WorkspaceRootPath": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\projects\\make every day unique\\medu\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\projects\\make every day unique\\medu\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\projects\\make every day unique\\medu\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\projects\\make every day unique\\medu\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\projects\\make every day unique\\medu\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\projects\\make every day unique\\medu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\GameObject.cs",
               "RelativeDocumentMoniker": "GameObject.cs",
-              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\GameObject.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\GameObject.cs",
               "RelativeToolTip": "GameObject.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Player.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Player.cs",
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Level.cs",
-              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Level.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Level.cs",
               "RelativeDocumentMoniker": "Level.cs",
-              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Level.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Level.cs",
               "RelativeToolTip": "Level.cs",
               "ViewState": "AgIAAA4BAAAAAAAAAAAAADoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Program.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Platform.cs",
-              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Platform.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Platform.cs",
               "RelativeDocumentMoniker": "Platform.cs",
-              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Platform.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Platform.cs",
               "RelativeToolTip": "Platform.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Game1.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Game1.cs",
               "RelativeDocumentMoniker": "Game1.cs",
-              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Game1.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\Projects\\Make Every Day Unique\\MEDU\\Game1.cs",
               "RelativeToolTip": "Game1.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAArwPUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

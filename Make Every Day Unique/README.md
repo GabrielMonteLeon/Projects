@@ -1,0 +1,1 @@
+Make Every Day Unique is a MonoGame 2D platformer where every level had the same layout but a different gameplay twist. Created in a team of four where I programmed movement and collisions of the player as well as menus.

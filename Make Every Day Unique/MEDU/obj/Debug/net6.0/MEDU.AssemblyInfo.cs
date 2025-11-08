@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MEDU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+231efc1332e95be3f8f9f58833df786547eab98f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d8a0d8fba97ffbede5dac490ce55d97e1560eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MEDU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MEDU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
