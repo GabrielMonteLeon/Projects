@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/background.jpg</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/ByteBounce.spritefont</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/CharacterLeft.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/CharacterRight.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Clock.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/CloudLeft.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/CloudMid.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/CloudRight.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Coin.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Danger.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/DangerLeft.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/DangerMid.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/DangerRight.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/End.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/File.spritefont</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Flag.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/goback.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Ice.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/LevelSelect.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/LS1.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/LS2.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/LS3.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/LS4.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/LS5.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/LS6.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Mud.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/pixel.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/retry.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidBottomLeft.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidBottomRight.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidCorner.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidFull.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidLeft.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidMid.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidRight.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/SolidVert.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/spritefont.spritefont</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Start.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/TempAvatar.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/Title.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/TitleCard.png</File>
+    <File>C:/Users/grayf/Documents/GitHub/106-Game/MEDU/Content/TombStone.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

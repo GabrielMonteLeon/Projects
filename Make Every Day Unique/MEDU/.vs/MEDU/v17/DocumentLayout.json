@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|c:\\users\\grayf\\documents\\github\\106-game\\medu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0632D2-EAE3-48E6-90F6-82E984980C99}|MEDU.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:08:24.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:47:45.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Level.cs",
+              "RelativeDocumentMoniker": "Level.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Level.cs",
+              "RelativeToolTip": "Level.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAAADoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:28:47.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:08:31.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Platform.cs",
+              "RelativeDocumentMoniker": "Platform.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Platform.cs",
+              "RelativeToolTip": "Platform.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:08:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\grayf\\Documents\\GitHub\\106-Game\\MEDU\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAArwPUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:08:21.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
