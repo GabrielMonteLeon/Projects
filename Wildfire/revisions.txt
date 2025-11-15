@@ -1,0 +1,101 @@
+commit 6f7a0c7ee3bbac32991e3ebc98248ed85bca3908
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 18:48:15 2025 -0400
+
+    added exit failure for unknown command
+
+commit e421aae3039f25b8a38917061bb1dc068aa9444e
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 18:43:47 2025 -0400
+
+    fixed missing semicolon
+
+commit b258cd863e4601cb04680afb8d82f7b43f29db03
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 18:43:20 2025 -0400
+
+    Overlay Display implemented
+
+commit 2e9aa310a9e34fb54fff330096349859be613ec6
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 18:24:51 2025 -0400
+
+    Fixed number of cycles in print mode
+
+commit 54d8071896b244a5652422295b47716167e7acdc
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 18:22:50 2025 -0400
+
+    fixed minor issue
+
+commit b8ff3afb2efca627836a9807541108fff5e6dfa7
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 18:20:41 2025 -0400
+
+    Added update and started print mode
+
+commit 9b53a1654fe8c46509b4f70b7b50975ac32c6da0
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 12:36:56 2025 -0400
+
+    fixed size error check being based on neighbor effect
+
+commit 3f0acf8e4e29fb9c208e32f2501d43b07f3d8abe
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 12:35:55 2025 -0400
+
+    fixed burning trees based on burning not density
+
+commit 896eb3e50d6b546fb081c349e0310a9080067b74
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 12:34:51 2025 -0400
+
+    Added burning and error checks
+
+commit d96e0aad98c28bea267b7ed97c2ee60df258d548
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 12:09:49 2025 -0400
+
+    Randomized starting trees
+
+commit 3909b83ea296332aa4258d12a2005ba76c20951c
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 10:54:07 2025 -0400
+
+    fixed minor issue
+
+commit 94fd8c07dd64605b2055743dd857565d5b91a599
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 10:52:17 2025 -0400
+
+    forgot to put printgrid before main
+
+commit 19bdb3498fc020bf5e03f307e6d9383298351a40
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 10:51:10 2025 -0400
+
+    Fixed print grid and accidentally undeleted density
+
+commit 7bfde150fc8f126a9f1582cdbdd061385d75747c
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 10:48:10 2025 -0400
+
+    fixed several more minor issues
+
+commit aeceb44e671b7931520053b29bbb052d83039061
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 10:44:01 2025 -0400
+
+    fixed minor issues
+
+commit 598a9425cc91bf64afdf7efad97372a686db5388
+Author: GabrielMonteLeon <gqm8083@g.rit.edu>
+Date:   Wed Oct 22 10:41:38 2025 -0400
+
+    added wildfire.c
+
+commit a1efc8c8029f46486bb8cba657d4d9d12b74f61a
+Author: Gabriel Quinn MonteLeon <gqm8083@rit.edu>
+Date:   Wed Oct 22 10:03:04 2025 -0400
+
+    added getopt and header files to repo
