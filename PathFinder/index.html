@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Path Finder</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://pixijs.download/release/pixi.min.js"></script>
+</head>
+
+<body>
+  <div id="ui-container">
+    <label>Algorithm Selector: 
+      <select id="algorithm-select">
+        <option value="bfs">BFS</option>
+        <option value="astar">A*</option>
+      </select>
+    </label>
+
+    <br>
+
+    <label>Grid Size:
+      <select id="grid-size">
+        <option value="10">10 x 10</option>
+        <option value="15">15 x 15</option>
+        <option value="20">20 x 20</option>
+      </select>
+    </label>
+    <br>
+    <button id="run-btn">Run</button>
+    <button id="clear-btn">Clear Path</button>
+    <button id="reset-btn">Reset</button>
+    <p id="status-message"></p>
+  </div>
+
+    <div id="pixi-container"></div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

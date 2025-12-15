@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: x-large;
+    background-color: lightgray;
+}
+
+#ui-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 5;
+}
+select{
+    font-size: large;
+}
+
+#status-message{
+    font-style: italic;
+}
+
+#clear-btn, #run-btn, #reset-btn {
+    margin-top: 10px;
+    padding: 6px 12px;
+    font-size: large;
+}
+
+#pixi-container {
+    position: absolute;
+    top: 25px;
+    left: 350px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid #000;
+    z-index: 1;
+    overflow: hidden;
+}
+
+#pixi-container canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px !important;
+    height: 500px !important;
+    display: block;
+}
