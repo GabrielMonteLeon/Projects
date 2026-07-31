@@ -1,0 +1,6 @@
+projectKey=Ufund-ui
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=Ufund-ui
+ceTaskId=41490db1-9432-47e7-a0c7-b1188d0a1904
+ceTaskUrl=http://localhost:9000/api/ce/task?id=41490db1-9432-47e7-a0c7-b1188d0a1904

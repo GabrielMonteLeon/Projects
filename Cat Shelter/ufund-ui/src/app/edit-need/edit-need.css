@@ -1,0 +1,58 @@
+/*copied from need temporarilly */
+
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(49, 47, 55);
+}
+
+.main-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 80px 60px;
+  background: linear-gradient(180deg, #cad2df 0%, #ccbfe0 100%);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+}
+h2 {
+    font-size: 30px;
+    background-color: #e3dfeb;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.info-display {
+  padding: 16px 32px;
+  background-color:rgba(136, 127, 157, 0.3);
+  color: rgb(50, 40, 54);
+  border: none;
+  font-size: 20px;
+  border-radius: 4px; 
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.button-background {
+  padding: 8px 32px;
+  background-color:rgba(136, 127, 157, 0.3);
+  color: rgb(50, 40, 54);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  transition: all .33s ease;    
+}
+.button-background:hover {
+  background-color: #9186a3;
+  transform: translateY(-5px) scale(1.05);
+}

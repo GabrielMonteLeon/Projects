@@ -1,0 +1,61 @@
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(49, 47, 55);
+}
+
+.main-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 60px;
+  background: linear-gradient(180deg, #cad2df 0%, #ccbfe0 100%);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  padding: 5px 10px;
+  margin-top: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+}
+
+.button-background {
+  padding: 8px 16px;
+  background-color: #8469b0;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all ease .33s;
+}
+#create_account{
+      background-color: transparent;
+      color: #4285f4;
+      border-bottom: 10px;
+}
+#create_account:hover {
+  color: #3367d6;
+    transform: none;
+
+}
+.button-background:hover {
+  background-color: #654b8f;
+    transform: translateY(-5px) scale(1.05);
+
+}

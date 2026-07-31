@@ -1,0 +1,27 @@
+<div class="page-container">
+  <div class="main-menu">
+    <div class="input-group">
+      <label>Username:</label>
+      <input type="text" placeholder="Enter username" [(ngModel)]="username">
+    </div>
+    <div class="input-group">
+      <label>Password:</label>
+      <input type="password" placeholder="Enter password" [(ngModel)]="password">
+    </div>
+    <div class="input-group">
+      <label>Role:</label>
+      <div class="dropdown">
+      <select [(ngModel)]="role" class="selt">
+        <option value="helper">Helper</option>
+        <option value="manager">Manager</option>
+      </select>
+      </div>
+    </div>
+    <div class="button-group">
+      <button class="button-background" id="login" (click)="login()">Login</button>
+    </div>
+    <div class="button-group">
+      <button class="button-background" (click)="createNewAccount()">Create Account</button>
+    </div>
+  </div>
+</div>

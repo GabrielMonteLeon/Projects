@@ -1,0 +1,25 @@
+<div class="manager-list-container">
+  <div class="main-menu">
+    <h2>User Needs</h2>
+
+    <div *ngIf="needs.length === 0" class="empty">
+      No needs found for this user.
+    </div>
+
+    <ul *ngIf="needs.length > 0" class="need-list">
+      <li *ngFor="let need of needs">
+        <button class="need-btn" (click)="goToNeed(need)">
+          {{ need.name }} ({{ need.quantity }})
+        </button>
+        <div class="need-actions">
+          <button class="edit-btn" (click)="editNeed(need)">Edit</button>
+          <button class="delete-btn" (click)="deleteNeed(need)">Delete</button>
+        </div>
+      </li>
+    </ul>
+
+    <div class="button-row">
+      <button class="btn-create" (click)="createNeed()">+ Create Need</button>
+    </div>
+  </div>
+</div>

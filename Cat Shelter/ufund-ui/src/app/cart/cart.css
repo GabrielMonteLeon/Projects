@@ -1,0 +1,113 @@
+.cart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 24px;
+  background-color: #f3f4f7;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(49, 47, 55);
+}
+
+.main-menu {
+  width: 100%;
+  max-width: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px 36px;
+  background: linear-gradient(180deg, #cad2df 0%, #ccbfe0 100%);
+  border-radius: 16px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.09);
+}
+
+h2 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 32px;
+  color: #2f2b3b;
+  background-color: #e3dfeb;
+  padding: 14px 16px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.12);
+}
+
+.need-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.need-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 14px;
+  padding: 16px 18px;
+  background-color: #f4f5f9;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.need-list li:hover {
+  transform: translateY(-1px);
+}
+
+.need-info {
+  flex: 1 1 auto;
+  font-weight: 600;
+  color: #2f2b3b;
+  min-width: 0;
+}
+
+.btn-remove,
+.btn-checkout,
+.btn-back {
+  padding: 12px 18px;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: none;
+  border-radius: 12px;
+  background: #e3dfeb;
+  color: #2f2b3b;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+  transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn-remove:hover,
+.btn-checkout:hover,
+.btn-back:hover {
+  background-color: rgba(136, 127, 157, 0.22);
+  transform: translateY(-2px);
+}
+
+.btn-remove {
+  min-width: 120px;
+}
+
+.btn-checkout,
+.btn-back {
+  min-width: 160px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+
+.empty {
+  text-align: center;
+  color: #4a4a5f;
+  opacity: 0.9;
+  padding: 18px 0;
+}

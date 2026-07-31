@@ -1,0 +1,82 @@
+.home-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  text-align: center;
+  padding: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.background{
+  gap: 15px;
+  padding: 60px;
+  background: linear-gradient(180deg, #cad2df 0%, #ccbfe0 100%);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  color: #352d49;
+  margin-bottom: 10px;
+}
+
+.hero h3 {
+  font-size: 1.1rem;
+  color: #352d49;
+  margin-bottom: 20px;
+}
+
+.logo-placeholder {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #77a8da;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.auth-actions {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  justify-content: center;
+}
+
+.btn {
+  padding: 12px 30px;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s ease-in-out;
+  min-width: 160px;
+}
+
+.btn-login {
+  background-color: #1976d2;
+  background-color: #8469b0;
+  color: white;
+  transition: all ease .33s;
+}
+
+.btn-login:hover {
+  background-color: #654b8f;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transform: translateY(-5px) scale(1.05);
+
+}
+
+.btn-register {
+  background-color: #ffffff;
+  color: #1976d2;
+  border: 2px solid #1976d2;
+}
+
+.btn-register:hover {
+  background-color: #f0f7ff;
+  transform: translateY(-5px) scale(1.05);
+}

@@ -1,0 +1,120 @@
+.create-need-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(49, 47, 55);
+}
+
+.main-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 80px 60px;
+  background: linear-gradient(180deg, #cad2df 0%, #ccbfe0 100%);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.need-form {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding: 16px 32px;
+  border-radius: 8px;
+  background-color: rgba(136, 127, 157, 0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+}
+
+.form-group label {
+  width: 100px;
+  font-weight: 600;
+  color: #444;
+}
+
+.form-group input {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  flex: 1;
+  border: none;
+  padding: 8px 5px;
+  font-size: 1rem;
+  border-radius: 8px;
+  outline: none;
+  background-color: #e3dfeb;
+  transition: border-color 0.2s;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.form-group input:focus {
+  border-bottom-color: #ffffff;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 30px;
+  background-color: #e3dfeb;
+  padding: 10px 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: #e3dfeb;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+  transition: all .33s ease;
+}
+
+.btn-create:hover {
+  background-color: rgba(136, 127, 157, 0.3);
+  color: rgb(50, 40, 54);
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+
+
+}
+
+.btn-back:hover {
+  background-color: rgba(136, 127, 157, 0.3);
+  color: rgb(50, 40, 54);
+  transform: translateY(-5px) scale(1.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+
+
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}

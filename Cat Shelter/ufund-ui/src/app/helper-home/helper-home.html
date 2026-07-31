@@ -1,0 +1,29 @@
+<div class="helper-list-container">
+  <div class="main-menu">
+    <h2>Available Needs</h2>
+
+    <div class="search-bar">
+      <input
+        type="text"
+        placeholder="Search needs..."
+        [(ngModel)]="searchText"
+        (ngModelChange)="onSearch()"
+      />
+    </div>
+
+    <div *ngIf="filteredNeeds.length === 0" class="empty">
+      No needs available.
+    </div>
+
+    <ul *ngIf="filteredNeeds.length > 0" class="need-list">
+      <li *ngFor="let need of filteredNeeds">
+        <span class="need-info">{{ need.name }} ({{ need.quantity }}) — ${{ need.cost }}</span>
+        <button class="need-btn" (click)="addToCart(need)">+ Add to Cart</button>
+      </li>
+    </ul>
+
+    <div class="button-row">
+      <button class="btn-cart" (click)="goToCart()">View Cart</button>
+    </div>
+  </div>
+</div>

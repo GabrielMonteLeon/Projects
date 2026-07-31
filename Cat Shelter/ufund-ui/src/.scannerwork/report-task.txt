@@ -1,0 +1,6 @@
+projectKey=heroes-app
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=heroes-app
+ceTaskId=dc9960e3-0bbd-4d0f-a34c-3633d7f23b22
+ceTaskUrl=http://localhost:9000/api/ce/task?id=dc9960e3-0bbd-4d0f-a34c-3633d7f23b22

@@ -1,0 +1,23 @@
+<div class="cart-container">
+  <div class="main-menu">
+    <h2>Your Cart</h2>
+
+    <div *ngIf="cartNeeds.length === 0" class="empty">
+      Your cart is empty.
+    </div>
+
+    <ul *ngIf="cartNeeds.length > 0" class="need-list">
+      <li *ngFor="let need of cartNeeds">
+        <span class="need-info">{{ need.name }} ({{ need.quantity }}) — ${{ need.cost }}</span>
+        <button class="btn-remove" (click)="removeFromCart(need)">Remove</button>
+      </li>
+    </ul>
+
+    <div class="button-row">
+      <button class="btn-checkout" (click)="checkout()" [disabled]="cartNeeds.length === 0">
+        Checkout
+      </button>
+      <button class="btn-back" (click)="goBack()">Back</button>
+    </div>
+  </div>
+</div>

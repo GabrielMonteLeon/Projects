@@ -1,0 +1,14 @@
+<div class="page-container">
+  <div class="main-menu">
+    <h2>Need Details</h2>
+    <div class="input-group">
+      <div *ngIf="need" class="info-display">
+        <p><strong>Name:</strong> {{ need.name }}</p>
+        <p><strong>Quantity:</strong> {{ need.quantity }}</p>
+        <p><strong>Type:</strong> {{ need.type }}</p>
+        <p><strong>Cost:</strong> {{ need.cost }}</p>
+      </div>
+    </div>
+      <button class="button-background" (click)="backButton()">Back</button>
+  </div>
+</div>
