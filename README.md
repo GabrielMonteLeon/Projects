@@ -7,6 +7,9 @@ List of projects in the repository:
 Cat Shelter: A mock cat shelter website created using Maven and Angular with persistent storage, account system, and two different types of users. 
 (Project source available in this repository.)
 
+Insurance Claims Data: A data pipeline that generates insurance claims data with Python, validates the data, and loads it into Snowflake for transformation and analysis.
+(Project source available in this repository.)
+
 Wildfire Simulation: A terminal-based simulation coded in C that models the spread of wildfire across a forest grid using probability, neighborhood influence, and time-based burning states. Includes both print mode and live-updating overlay display.
 (Project source available in this repository.)
 
